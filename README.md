@@ -41,8 +41,8 @@ Sección para el carrito de compras, muestra los productos comprados y funcional
   ```
   {
     comprador {
-      email: "sle@gmail.com"
-      name: "Sebastián Elsener"
+      email: "damicx1@gmail.com"
+      name: "Damian Ramos"
     }
     items [
       0: {
